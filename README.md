@@ -1,2 +1,2 @@
 # projeto-fiis
-Projeto feito para praticar o desenvolvimentos de sites WEB
+Projeto feito para praticar o desenvolvimento de WebSites
