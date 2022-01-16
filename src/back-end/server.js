@@ -1,5 +1,6 @@
 const express = require('express')
 const app = express()
+const conexao = require('./database/connection')
 
 const mainRouter = require('./routers/test')
 
